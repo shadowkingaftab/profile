@@ -5,7 +5,7 @@ A four-page personal portfolio for a college web development practical. Built wi
 ## Pages
 
 - index.html — introduction, profile image and selected work
-- work.html — editorial project gallery, including DAIOPH
+- work.html — editorial project gallery for the Parking Automation App and Code Ranker
 - resume.html — education, skills, experience, achievements and projects
 - biodata.html — personal, education and contact details
 
@@ -15,7 +15,7 @@ Open index.html in a browser, or serve this directory with any static HTTP serve
 
 ## Personalize before submission
 
-Search HTML files for square-bracket placeholders, Your Name, and your.email@example.com. Replace them with accurate information. The resume has no claimed personal qualifications or achievements. Replace sample imagery with work and images you have permission to use.
+Personal details and project descriptions have been filled from the information provided. Experience and achievements are shown as none. The original sample project entries have been removed. The profile photo is stored locally at assets/aftab-profile.jpeg. Project images are illustrative stock photos.
 
 ## Structure
 
